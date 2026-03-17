@@ -1,0 +1,8 @@
+Especificación del cuadro mágico
+Orden n = 10
+Dominio: números enteros del 1 al 100, todos diferentes
+Constante mágica = 505
+Restricciones:
+- La suma de cada fila debe ser igual a la constante mágica
+- La suma de cada columna debe ser igual a la constante mágica
+- La suma de las dos diagonales principales debe ser igual a la constante mágica

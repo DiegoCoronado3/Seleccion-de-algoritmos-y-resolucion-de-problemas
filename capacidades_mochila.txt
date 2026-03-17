@@ -1,0 +1,2 @@
+mochila_10 capacidad=38 (peso total=85)
+mochila_100 capacidad=1097 (peso total=2439)

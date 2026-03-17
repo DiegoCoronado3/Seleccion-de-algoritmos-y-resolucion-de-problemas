@@ -1,0 +1,6 @@
+Lista de adyacencias no dirigida
+A: B,E
+B: A,C
+C: B,D
+D: C,E
+E: A,D
