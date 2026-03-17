@@ -2,6 +2,8 @@
 ### Selección de Algoritmos y Resolución de Problemas Clásicos de IA
 
 > Implementación en Python de seis algoritmos clásicos de búsqueda y CSP, con salida visual en consola.
+>
+> Se agrega un pdf con mas informacion detallada de cada problema asi como la solucion y su implementacion
 
 ---
 
