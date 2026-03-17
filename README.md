@@ -10,15 +10,15 @@
 ```
 tarea2-ia/
 │
-├── data/                              # Archivos de entrada
-│   ├── mochila_10.csv                 # 10 objetos con peso y valor
-│   ├── mochila_100.csv                # 100 objetos con peso y valor
-│   ├── capacidades_mochila.txt        # Capacidades: CAP10=38, CAP100=1097
-│   ├── sudoku_9x9_es.txt              # Puzzle Sudoku 9×9
-│   ├── sudoku_16x16_es.txt            # Puzzle Hexadoku 16×16 (símbolos 0–9 y A–F)
-│   ├── mapa_5_paises_adyacencias.txt  # Grafo de 5 países (ciclo C₅)
-│   ├── mapa_100_paises_adyacencias.txt# Grafo grilla 10×10 (100 países)
-│   └── cuadro_magico_10_especificacion.txt  # n=10, dominio 1–100, constante=505
+├# Archivos de entrada
+│── mochila_10.csv                 # 10 objetos con peso y valor
+│── mochila_100.csv                # 100 objetos con peso y valor
+│── capacidades_mochila.txt        # Capacidades: CAP10=38, CAP100=1097
+│── sudoku_9x9_es.txt              # Puzzle Sudoku 9×9
+│── sudoku_16x16_es.txt            # Puzzle Hexadoku 16×16 (símbolos 0–9 y A–F)
+│── mapa_5_paises_adyacencias.txt  # Grafo de 5 países (ciclo C₅)
+│── mapa_100_paises_adyacencias.txt# Grafo grilla 10×10 (100 países)
+│── cuadro_magico_10_especificacion.txt  # n=10, dominio 1–100, constante=505
 │
 ├── mochila.py               # Recocido Simulado + DP exacto
 ├── reinas.py               # Min-Conflicts con contadores O(1)
